@@ -1,2 +1,1 @@
-Download the data from the repository
-Run the notebook
+Download the data from the repository and run the notebook
