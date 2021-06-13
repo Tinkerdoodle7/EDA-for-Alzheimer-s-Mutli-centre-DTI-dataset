@@ -1,2 +1,2 @@
-# Download the data from the repository
+Download the data from the repository
 Run the notebook
